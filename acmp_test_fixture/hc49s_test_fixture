@@ -1,0 +1,9 @@
+Reference,Quantity,Identifier,Package,Value,Tolerance,Voltage,Current,Power,PN,Alt Mfr Part No,Digikey,Mfr Part No,Mouser,Alt Digikey
+"R6;R1","2","","","see table","","","","","","RC0805FR-07xxxRL","~","ERJ-6ENFxxx0V","~",""
+"R4;R2;R5;R3","4","","","see table","","","","","","RC0805FR-07xxxRL","~","ERJ-6ENFxxRxV","~",""
+"C1;C2","2","","","omit","","","","","","~","399-7896-1-ND","~","",""
+"J3;J1","2","","","SMA","","","","","","132365-10","WM5543-ND","73251-0621","","ACX1915-ND"
+"Y1;Y2","2","","","HS-49S","","","","","","~","","~","",""
+"M3;M2;M4;M1","4","","","MountingHole","","","","","","~","","~","",""
+"J2","1","","","5 pos sip socket","","","","","","ESS-105-T-03","ED4764-05-ND","315-43-105-41-003000","",""
+"T1;T2","2","","","Toroid","","","","","","5943000211","","T37-43","623-5943000211",""
